@@ -31,30 +31,30 @@ Ionicon
 ## Colors
 
 ```css
---rich-black-fogra-29_95: hsla(222, 18%, 11%, 0.95);
---raisin-black-1: hsl(0, 0%, 16%);
---raisin-black-2: hsl(236, 17%, 17%);
---raisin-black-3: hsl(280, 11%, 11%);
---raisin-black-4: hsl(280, 8%, 15%);
---english-violet: hsl(274, 21%, 23%);
---eerie-black-1: hsl(277, 25%, 10%);
---eerie-black-2: hsl(280, 7%, 8%);
---roman-silver: hsl(220, 6%, 59%);
---quick-silver: hsl(0, 1%, 65%);
---light-gray-1: hsl(0, 0%, 80%);
---light-gray-2: hsl(0, 2%, 82%);
---marigold_75: hsla(42, 99%, 46%, 0.75);
---xiketic_90: hsla(280, 37%, 8%, 0.9);
---cultured-2: hsl(0, 0%, 97%);
---marigold: hsl(42, 99%, 46%);
---platinum: hsl(0, 0%, 89%);
---dim-gray: hsl(0, 0%, 42%);
---white_15: hsla(0, 0%, 100%, 0.15);
---white_10: hsla(0, 0%, 100%, 0.1);
---xiketic: hsl(277, 25%, 10%);
---silver: hsl(0, 0%, 78%);
---white: hsl(0, 0%, 100%);
---jet: hsl(236, 13%, 23%);
+  --rich-black-fogra-29_95: #242325;
+  --raisin-black-1: #242325;
+  --raisin-black-2: #242325;
+  --raisin-black-3: #FF5756;
+  --raisin-black-4: #272329;
+  --english-violet: #FFF0BA;
+  --eerie-black-1: #242325;
+  --eerie-black-2: #242325;
+  --roman-silver: #242325;
+  --quick-silver: #a7a5a5;
+  --light-gray-1: #cccccc;
+  --light-gray-2: #d2d0d0;
+  --marigold_75: #FFF0BA;
+  --xiketic_90: #242325;
+  --cultured-2: #f7f7f7;
+  --marigold: #72ECF0;
+  --platinum: #e3e3e3;
+  --dim-gray: #6b6b6b;
+  --white_15: #ffffff26;
+  --white_10: #ffffff1a;
+  --xiketic: #1b1320;
+  --silver: #c7c7c7;
+  --white: #ffffff;
+  --jet: #242325;
 ```
 
 ## Typography
