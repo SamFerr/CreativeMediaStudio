@@ -31,30 +31,19 @@ Ionicon
 ## Colors
 
 ```css
-  --rich-black-fogra-29_95: #242325;
-  --raisin-black-1: #242325;
-  --raisin-black-2: #242325;
-  --raisin-black-3: #FF5756;
-  --raisin-black-4: #272329;
-  --english-violet: #FFF0BA;
-  --eerie-black-1: #242325;
-  --eerie-black-2: #242325;
-  --roman-silver: #242325;
+  --raisin-black: #242325;
+  --bittersweet: #FF5756;
+  --vanilla: #FFF0BA;
+  --electric-blue: #72ECF0;
+  --myrtle-green: #297373;
   --quick-silver: #a7a5a5;
   --light-gray-1: #cccccc;
   --light-gray-2: #d2d0d0;
-  --marigold_75: #FFF0BA;
-  --xiketic_90: #242325;
   --cultured-2: #f7f7f7;
-  --marigold: #72ECF0;
   --platinum: #e3e3e3;
   --dim-gray: #6b6b6b;
-  --white_15: #ffffff26;
-  --white_10: #ffffff1a;
-  --xiketic: #1b1320;
   --silver: #c7c7c7;
   --white: #ffffff;
-  --jet: #242325;
 ```
 
 ## Typography
