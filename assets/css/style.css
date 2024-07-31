@@ -401,7 +401,7 @@ body {
 .navbar {
   background-color: var(--raisin-black);
   color: var(--white);
-  position: absolute;
+  position: fixed;
   top: 100%;
   right: 0;
   width: 100%;
