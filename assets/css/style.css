@@ -974,7 +974,7 @@ body {
 }
 
 .newsletter-card {
-  background-color: var(--bittersweet);
+  background-color: var(--raisin-black);
   padding: 4rem 1.5rem;
   margin-block-start: -5.5rem;
   border-radius: 8rem;
@@ -1091,7 +1091,7 @@ body {
 
 .footer-list-title {
   position: relative;
-  color: var(--silver);
+  color: var(--raisin-black);
   font-family: var(--ff-oxanium);
   text-transform: uppercase;
   font-weight: var(--fw-800);
