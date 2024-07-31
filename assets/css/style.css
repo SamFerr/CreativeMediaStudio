@@ -12,14 +12,13 @@
   --bittersweet: #FF5756;
   --vanilla: #FFF0BA;
   --electric-blue: #72ECF0;
+  --myrtle-green: #297373;
   --quick-silver: #a7a5a5;
   --light-gray-1: #cccccc;
   --light-gray-2: #d2d0d0;
   --cultured-2: #f7f7f7;
   --platinum: #e3e3e3;
   --dim-gray: #6b6b6b;
-  --white_15: #ffffff26;
-  --white_10: #ffffff1a;
   --silver: #c7c7c7;
   --white: #ffffff;
 
@@ -420,7 +419,7 @@ body {
 }
 
 .navbar-item:not(:last-child) {
-  border-block-end: 1px solid var(--white_15);
+  border-block-end: 1px solid var(--myrtle-green);
 }
 
 .navbar-link {
@@ -429,7 +428,7 @@ body {
 }
 
 .navbar-link:is(:hover, :focus) {
-  background-color: var(--white_10);
+  background-color: var(--myrtle-green);
 }
 
 /*-----------------------------------*\
@@ -466,7 +465,7 @@ body {
   font-size: 2rem;
   padding: 2rem;
   padding-inline-end: 6rem;
-  border-block-end: 3px solid var(--white_10);
+  border-block-end: 3px solid var(--myrtle-green);
   outline: none;
   transition: var(--transition);
 }
