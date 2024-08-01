@@ -401,7 +401,7 @@ body {
 .navbar {
   background-color: var(--raisin-black);
   color: var(--white);
-  position: fixed;
+  position: absolute;
   top: 100%;
   right: 0;
   width: 100%;
@@ -755,7 +755,7 @@ body {
 }
 
 .featured-game-card .card-meta {
-  color: var(--white);
+  color: var(--raisin-black);
   font-size: var(--fs-11);
   font-weight: var(--fw-500);
   text-transform: uppercase;
@@ -782,7 +782,7 @@ body {
 }
 
 .featured-game-card .card-content-overlay .span {
-  color: var(--white);
+  color: var(--bittersweet);
 }
 
 .featured-game-card:is(:hover, :focus-within) .card-content {
